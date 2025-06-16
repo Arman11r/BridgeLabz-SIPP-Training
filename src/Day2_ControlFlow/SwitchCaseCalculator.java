@@ -1,4 +1,4 @@
-package Day2;
+package Day2_ControlFlow;
 import java.util.*;
 public class SwitchCaseCalculator {
 
