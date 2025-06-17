@@ -22,7 +22,7 @@ public class ReverseNumber {
 
         System.out.print("Reversed digits: ");
         for (int digit : digits) {
-            System.out.print(digit + " ");
+            System.out.print(digit + "  ");
         }
     }
 }
