@@ -8,7 +8,7 @@ public class MultiplicationTable {
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
 
-        int[] results = new int[4]; // 6 to 9
+        int[] results = new int[4];
 
         for (int i = 0; i < 4; i++) {
             results[i] = number * (6 + i);
