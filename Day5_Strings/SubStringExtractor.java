@@ -13,7 +13,7 @@ public class SubStringExtractor {
             String sub = str.substring(start, end);
             System.out.println("Substring: " + sub);
         } catch (StringIndexOutOfBoundsException e) {
-            System.out.println("Invalid index: " + e.getMessage());
+            System.out.println("Invalid index:  " + e.getMessage());
         }
     }
 }
