@@ -10,7 +10,7 @@ public class NullPointerChecker {
         try {
             System.out.println(str.length());
         } catch (NullPointerException e) {
-            System.out.println("Caught NullPointerException");
+            System.out.println("Caught NullPointerException ");
         }
     }
 }
