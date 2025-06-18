@@ -11,7 +11,7 @@ public class ArrayIndexCheck {
         try {
             System.out.println("Element at index " + index + " is " + arr[index]);
         } catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println("Invalid Index: " + e.getMessage());
+            System.out.println("Invalid Index:  " + e.getMessage());
         }
     }
 }
