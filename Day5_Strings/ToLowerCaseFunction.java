@@ -4,8 +4,8 @@ import java.util.*;
 
 public class ToLowerCaseFunction {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine();
+        Scanner scn = new Scanner(System.in);
+        String input = scn.nextLine();
         System.out.println(input.toLowerCase());
     }
     
