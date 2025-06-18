@@ -9,9 +9,9 @@ public class StringComparer {
         String s2 = sc.nextLine();
 
         if (s1.equals(s2)) {
-            System.out.println("Strings are equal");
+            System.out.println("Strings are equal" );
         } else {
-            System.out.println("Strings are not equal");
+            System.out.println("Strings are not equal ");
         }
     }
 }
