@@ -4,8 +4,7 @@ import java.util.*;
 public class FootballTeamHeights {
 
     public static void main(String[] args) {
-        int[] heights = generateHeights(11);  // 11 players
-        System.out.println("Player Heights (in cm): " + Arrays.toString(heights));
+        int[] heights = generateHeights(11);          System.out.println("Player Heights (in cm): " + Arrays.toString(heights));
 
         int sum = getSum(heights);
         double mean = getMean(heights);
@@ -18,17 +17,16 @@ public class FootballTeamHeights {
         System.out.println("Tallest Player: " + tallest + " cm");
     }
 
-    // 1. Generate 11 random heights between 150 and 250 cm
     public static int[] generateHeights(int size) {
         Random rand = new Random();
         int[] heights = new int[size];
         for (int i = 0; i < size; i++) {
-            heights[i] = rand.nextInt(101) + 150; // (0 to 100) + 150 = 150 to 250
+            heights[i] = rand.nextInt(101) + 150;
         }
         return heights;
     }
 
-    // 2. Method to calculate the sum of all elements
+    
     public static int getSum(int[] arr) {
         int sum = 0;
         for (int height : arr) {
@@ -37,12 +35,12 @@ public class FootballTeamHeights {
         return sum;
     }
 
-    // 3. Method to calculate mean
+
     public static double getMean(int[] arr) {
         return getSum(arr) / (double) arr.length;
     }
 
-    // 4. Method to find shortest height
+
     public static int getShortest(int[] arr) {
         int min = Integer.MAX_VALUE;
         for (int height : arr) {
@@ -53,7 +51,7 @@ public class FootballTeamHeights {
         return min;
     }
 
-    // 5. Method to find tallest height
+
     public static int getTallest(int[] arr) {
         int max = Integer.MIN_VALUE;
         for (int height : arr) {
