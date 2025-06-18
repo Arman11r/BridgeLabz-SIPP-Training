@@ -14,9 +14,9 @@ public class StringCharAtComparer {
         System.out.println("Built-in equals comparison: " + builtInCompare);
 
         if (manualCompare == builtInCompare) {
-            System.out.println("Both methods give the same result.");
+            System.out.println("Both methods give the same result. ");
         } else {
-            System.out.println("Results differ between methods.");
+            System.out.println("Results differ between methods. ");
         }
     }
 
