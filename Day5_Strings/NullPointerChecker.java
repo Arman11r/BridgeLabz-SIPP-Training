@@ -1,4 +1,4 @@
-package Day5_Methods;
+package Day5_Strings;
 
 import java.util.*;
 
