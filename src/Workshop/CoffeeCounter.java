@@ -18,7 +18,7 @@ public class CoffeeCounter {
 
             System.out.print("Enter quantity: ");
             int quantity = sc.nextInt();
-            sc.nextLine(); // clear buffer
+            sc.nextLine(); 
 
             double price = 0;
 
@@ -48,7 +48,7 @@ public class CoffeeCounter {
             totalBill += finalBill;
         }
 
-        System.out.println("\n🔔 Final Total Bill for All Customers: ₹" + totalBill);
+        System.out.println("\n Final Total Bill for All Customers: ₹" + totalBill);
         sc.close();
     }
 }
