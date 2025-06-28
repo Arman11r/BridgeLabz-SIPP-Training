@@ -56,6 +56,26 @@ Applied encapsulation, association, and abstraction in real-world modeling.
 
 ---
 
+📚 Workshop Branch – Review Session Codes
+
+📌 CoffeeCounter.java
+
+🔗 View File
+Simulates a coffee billing system using switch, while, and arithmetic operations with GST logic.
+
+📌 ElectionBoothManager.java
+
+🔗 View File
+Implements a voting system where users vote for candidates after eligibility check.
+
+📌 ParkingLotGateSystem.java
+
+🔗 View File
+Mimics a smart parking lot with real-time occupancy tracking using loops and switch-case.
+
+⸻
+
+
 ## 🛠️ How to Run
 
 **Core Java files**  
