@@ -1,57 +1,65 @@
 # 🚀 BridgeLabz SIPP Training Assignments
 
-This repository documents my daily progress through the BridgeLabz SIPP Core Java training. It contains assignments on Java fundamentals, control structures, arrays, string handling, and object-oriented programming.
-
-> **Note:**  
-> - All core Java practice files (Day1 to Day5 and Extras) are maintained in the `CoreJava` branch.  
-> - All Object-Oriented Programming (OOP) files are pushed and organized in the `OOPS` branch under `oopsjava.` packages.
+> 🧠 Core Java assignments are in the `CoreJava` branch • OOP exercises are in the `OOPS` branch
 
 ---
 
-## 📁 Folder Overview (CoreJava Branch)
+## 📁 CoreJava Branch
 
-### 📌 Day1 – Java Basics
-Uploaded foundational Java programs including variables, calculations, unit conversions, and discount applications. Learned basic syntax and console I/O.
+### 📌 Day1 – Java Basics  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/Day1_JavaBasics)  
+Uploaded foundational Java programs for variables, calculations, user input/output, and basic syntax.
 
-### 📌 Day2_ControlFlow
-Focused on conditional statements and logical decision-making using `if`, `else-if`, and `switch-case` constructs.
+### 📌 Day2 – Control Flow  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/Day2_ControlFlow)  
+Assignments focus on `if-else`, `switch-case`, and logical branching (e.g., leap year checks).
 
-### 📌 Day3_Arrays
-Implemented assignments related to 1D arrays, including basic computations, table generation, and structured looping.
+### 📌 Day3 – Arrays  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/Day3_Arrays)  
+Practiced array processing with tasks like computation, FizzBuzz, and BMI calculations.
 
-### 📌 Day4_Methods
-Learned modular programming using user-defined methods, return types, and parameter passing.
+### 📌 Day4 – Methods  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/Day4_Methods)  
+Modular code: user-defined methods, parameter/return usage, and reusable logic.
 
-### 📌 Day5_Strings
-Explored Java string operations, manual parsing, character handling, and custom logic for string manipulation.
+### 📌 Day5 – Strings  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/Day5_Strings)  
+String manipulation with manual parsing, palindrome checks, and character operations.
 
-### 📌 EXTRAS_built_in_functions
-Practiced built-in Java utility methods like `Math`, `Random`, and `Arrays`.
+### 📌 EXTRAS – Built-in Functions  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/EXTRAS_built_in_functions)  
+Explored Java’s standard library (`Math`, `Random`, formatting utilities).
 
-### 📌 EXTRAS_java_string_handling
-Focused on in-depth string manipulation using Java's built-in string APIs and exception handling.
+### 📌 EXTRAS – String Handling  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/EXTRAS_java_string_handling)  
+Advanced string APIs with edge-case logic, null handling, and performance considerations.
 
 ---
 
-## 📦 Object-Oriented Programming (OOPS Branch)
+## 🛠 OOPS Branch
 
-### 📌 oopsjava.day1javaclassandmethods
-Created and used classes and objects, learned about instance variables, method definitions, and object initialization. This formed the base for OOP understanding.
+### 📌 oopsjava.day1javaclassandmethods  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day1javaclassandmethods)  
+Learned class creation, object instantiation, instance methods, and constructors.
 
-### 📌 oopsjava.day2ConstructorsInstancevsClassAccessModifiers
-Explored constructor overloading, differences between instance and class-level members (`static`), and applied access modifiers (`public`, `private`, `protected`).
+### 📌 oopsjava.day2ConstructorsInstancevsClassAccessModifiers  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day2ConstructorsInstancevsClassAccessModifiers)  
+Studied `static` vs instance variables, constructor overloading, and access modifiers.
 
-### 📌 oopsjava.day3thisStaticFinalKeywordAndInstanceCount
-Studied `this` keyword for disambiguating variables, implemented object counting using `static`, and used `final` to enforce constants.
+### 📌 oopsjava.day3thisStaticFinalKeywordAndInstanceCount  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day3thisStaticFinalKeywordAndInstanceCount)  
+Explored `this`, `static`, `final`, and implemented a counter for object instances.
 
-### 📌 oopsjava.day4ObjectOrientedDesignPrinciples
-Applied real-world modeling with OOP design principles such as encapsulation, association, communication between classes, and abstraction using practical scenarios.
+### 📌 oopsjava.day4ObjectOrientedDesignPrinciples  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day4ObjectOrientedDesignPrinciples)  
+Applied encapsulation, association, and abstraction in real-world modeling.
 
 ---
 
 ## 🛠️ How to Run
 
+**Core Java files**  
 ```bash
-# Compile & run any file (example)
-javac src/Day1/filename.java
-java Day1.filename
+git checkout CoreJava
+javac Day2_ControlFlow/LeapYear.java
+java Day2_ControlFlow.LeapYear
