@@ -7,7 +7,7 @@
 ## 📁 CoreJava Branch
 
 ### 📌 Day1 – Java Basics  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/Day1_JavaBasics)  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/CoreJava/Day1)  
 Uploaded foundational Java programs for variables, calculations, user input/output, and basic syntax.
 
 ### 📌 Day2 – Control Flow  
