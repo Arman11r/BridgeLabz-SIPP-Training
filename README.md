@@ -61,15 +61,15 @@ Applied encapsulation, association, and abstraction in real-world modeling.
 > These programs were assigned during live review sessions and are maintained in the `workshop` branch.
 
 ### 📌 **CoffeeCounter.java**  
-[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/workshop/CoffeeCounter.java)  
+[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/src/workshop/CoffeeCounter.java)  
 Simulates a coffee billing system using `switch`, `while`, and arithmetic operators, including GST calculation.
 
 ### 📌 **ElectionBoothManager.java**  
-[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/workshop/ElectionBoothManager.java)  
+[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/src/workshop/ElectionBoothManager.java)  
 Implements a voting system with age verification and vote tallying across three candidates.
 
 ### 📌 **ParkingLotGateSystem.java**  
-[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/workshop/ParkingLotGateSystem.java)  
+[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/src/workshop/ParkingLotGateSystem.java)  
 A parking lot simulation using `switch-case` and loop structures to manage entry, exit, and occupancy display.
 
 
