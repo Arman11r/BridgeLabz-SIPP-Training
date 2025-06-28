@@ -8,48 +8,50 @@ This repository documents my daily progress through the BridgeLabz SIPP Core Jav
 
 ---
 
-## 📁 Folder Overview
+## 📁 Folder Overview (CoreJava Branch)
 
-### 📌 Day1 – Java Basics *(in `CoreJava` branch)*
+### 📌 Day1 – Java Basics
 Uploaded foundational Java programs including variables, calculations, unit conversions, and discount applications. Learned basic syntax and console I/O.
 
-### 📌 Day2_ControlFlow *(in `CoreJava` branch)*
+### 📌 Day2_ControlFlow
 Focused on conditional statements and logical decision-making using `if`, `else-if`, and `switch-case` constructs.
 
-### 📌 Day3_Arrays *(in `CoreJava` branch)*
+### 📌 Day3_Arrays
 Implemented assignments related to 1D arrays, including basic computations, table generation, and structured looping.
 
-### 📌 Day4_Methods *(in `CoreJava` branch)*
+### 📌 Day4_Methods
 Learned modular programming using user-defined methods, return types, and parameter passing.
 
-### 📌 Day5_Strings *(in `CoreJava` branch)*
+### 📌 Day5_Strings
 Explored Java string operations, manual parsing, character handling, and custom logic for string manipulation.
 
-### 📌 EXTRAS_built_in_functions & EXTRAS_java_string_handling *(in `CoreJava` branch)*
-Worked on built-in Java utilities, string API usage, and exception-safe logic.
+### 📌 EXTRAS_built_in_functions
+Practiced built-in Java utility methods like `Math`, `Random`, and `Arrays`.
+
+### 📌 EXTRAS_java_string_handling
+Focused on in-depth string manipulation using Java's built-in string APIs and exception handling.
 
 ---
 
-## 💡 OOPS Concepts *(in `OOPS` branch)*
+## 📦 Object-Oriented Programming (OOPS Branch)
 
-These files are available in the **`OOPS` branch** under the `oopsjava.` package. They demonstrate concepts of object-oriented programming:
+### 📌 oopsjava.day1javaclassandmethods
+Created and used classes and objects, learned about instance variables, method definitions, and object initialization. This formed the base for OOP understanding.
 
-- **oopsjava.day1javaclassandmethods**  
-  Created and managed classes, constructors, and instance methods.
+### 📌 oopsjava.day2ConstructorsInstancevsClassAccessModifiers
+Explored constructor overloading, differences between instance and class-level members (`static`), and applied access modifiers (`public`, `private`, `protected`).
 
-- **oopsjava.day2ConstructorsInstancevsClassAccessModifiers**  
-  Differentiated between instance vs static methods, and practiced access control.
+### 📌 oopsjava.day3thisStaticFinalKeywordAndInstanceCount
+Studied `this` keyword for disambiguating variables, implemented object counting using `static`, and used `final` to enforce constants.
 
-- **oopsjava.day3thisStaticFinalKeywordAndInstanceCount**  
-  Used `this`, `static`, and `final` keywords to control behavior and memory.
-
-- **oopsjava.day4ObjectOrientedDesignPrinciples**  
-  Applied core OOP design principles like encapsulation, association, and communication between classes.
+### 📌 oopsjava.day4ObjectOrientedDesignPrinciples
+Applied real-world modeling with OOP design principles such as encapsulation, association, communication between classes, and abstraction using practical scenarios.
 
 ---
 
 ## 🛠️ How to Run
 
 ```bash
+# Compile & run any file (example)
 javac src/Day1/filename.java
 java Day1.filename
