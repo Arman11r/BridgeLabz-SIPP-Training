@@ -38,21 +38,35 @@ Advanced string APIs with edge-case logic, null handling, and performance consid
 
 ## 🛠 OOPS Branch
 
+> These folders contain OOP principles practiced through real-world systems and modular design.
+
 ### 📌 oopsjava.day1javaclassandmethods  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day1javaclassandmethods)  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day1javaclassandmethods)  
 Learned class creation, object instantiation, instance methods, and constructors.
 
-### 📌 oopsjava.day2ConstructorsInstancevsClassAccessModifiers  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day2ConstructorsInstancevsClassAccessModifiers)  
-Studied `static` vs instance variables, constructor overloading, and access modifiers.
+### 📌 oopsjava.day2ConstructorsInstancevsClassAccesModifiers  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day2ConstructorsInstancevsClassAccesModifiers)  
+Studied static vs instance variables, constructor overloading, and Java access levels.
 
-### 📌 oopsjava.day3thisStaticFinalKeywordAndInstanceCount  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day3thisStaticFinalKeywordAndInstanceCount)  
-Explored `this`, `static`, `final`, and implemented a counter for object instances.
+### 📌 oopsjava.day3thisStaticFinalKeywordAndInstanceOfOperators  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day3thisStaticFinalKeywordAndInstanceOfOperators)  
+Explored `this`, `static`, `final`, and `instanceof` usage in object management and memory control.
 
 ### 📌 oopsjava.day4ObjectOrientedDesignPrinciples  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/oopsjava/day4ObjectOrientedDesignPrinciples)  
-Applied encapsulation, association, and abstraction in real-world modeling.
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day4ObjectOrientedDesignPrinciples)  
+Practiced high-level OOP principles including abstraction, cohesion, and modularity.
+
+### 📌 oopsjava.day5Inheritance  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day5Inheritance)  
+Implemented inheritance-based relationships and tested hierarchical designs like `VehicleSystemTest`.
+
+### 📌 oopsjava.Day6EncapsulationPolymorphismInterfaceandAbstractClass  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/Day6EncapsulationPolymorphismInterfaceandAbstractClass)  
+Developed real-world applications using all major OOP concepts:
+- **Encapsulation**: Hospital Management System  
+- **Polymorphism**: Employee & Food Delivery Systems  
+- **Abstract Classes**: Library Management  
+- **Interfaces**: Ride Hailing App, E-Commerce, Bank, etc.
 
 ---
 
