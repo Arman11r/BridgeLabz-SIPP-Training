@@ -60,17 +60,29 @@ Applied encapsulation, association, and abstraction in real-world modeling.
 
 > These programs were assigned during live review sessions and are maintained in the `workshop` branch.
 
-### 📌 **CoffeeCounter.java**  
-[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/CoffeeCounter.java)  
+### 📌 [CoffeeCounter.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/CoffeeCounter.java)  
 Simulates a coffee billing system using `switch`, `while`, and arithmetic operators, including GST calculation.
 
-### 📌 **ElectionBoothManager.java**  
-[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ElectionBoothManager.java)  
+### 📌 [ElectionBoothManager.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ElectionBoothManager.java)  
 Implements a voting system with age verification and vote tallying across three candidates.
 
-### 📌 **ParkingLotGateSystem.java**  
-[🔗 View File](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ParkingLotGateSystem.java)  
+### 📌 [ParkingLotGateSystem.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ParkingLotGateSystem.java)  
 A parking lot simulation using `switch-case` and loop structures to manage entry, exit, and occupancy display.
+
+### 📌 [CbInvoiceGenerator.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/CbInvoiceGenerator.java)  
+Implements invoice calculation for cab rides, including ride distance and time tracking with fare computation.
+
+### 📌 [countfrequency.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/countfrequency.java)  
+Counts and displays the frequency of user input (numbers or characters).
+
+### 📌 [Node.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/Node.java)  
+Basic implementation of a custom `Node` class — likely used in linked list examples.
+
+### 📌 [practice.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/practice.java)  
+General-purpose file for quick problem solving, testing logic, or debugging snippets.
+
+### 📌 [sol.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/sol.java)  
+Contains final solutions to discussed problems — often combined or finalized code.
 
 
 ## 🛠️ How to Run
