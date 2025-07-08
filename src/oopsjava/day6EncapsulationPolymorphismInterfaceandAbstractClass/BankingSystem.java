@@ -33,7 +33,7 @@ abstract class BankAccount {
         if (amount <= balance) {
             balance -= amount;
         } else {
-            System.out.println("Insufficient Balance");
+            System.out.println("Insufficient Balance ");
         }
     }
 
