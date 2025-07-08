@@ -1,6 +1,6 @@
 # 🚀 BridgeLabz SIPP Training Assignments
 
-> 🧠 Core Java assignments are in the `CoreJava` branch • OOP exercises are in the `OOPS` branch
+> 🧠 Core Java assignments are in the `CoreJava` branch • OOP exercises are in the `OOPS` branch • DSA problems are in the `DSA` branch
 
 ---
 
@@ -41,32 +41,43 @@ Advanced string APIs with edge-case logic, null handling, and performance consid
 > These folders contain OOP principles practiced through real-world systems and modular design.
 
 ### 📌 oopsjava.day1javaclassandmethods  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day1javaclassandmethods)  
-Learned class creation, object instantiation, instance methods, and constructors.
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day1javaclassandmethods)
 
 ### 📌 oopsjava.day2ConstructorsInstancevsClassAccesModifiers  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day2ConstructorsInstancevsClassAccesModifiers)  
-Studied static vs instance variables, constructor overloading, and Java access levels.
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day2ConstructorsInstancevsClassAccesModifiers)
 
 ### 📌 oopsjava.day3thisStaticFinalKeywordAndInstanceOfOperators  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day3thisStaticFinalKeywordAndInstanceOfOperators)  
-Explored `this`, `static`, `final`, and `instanceof` usage in object management and memory control.
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day3thisStaticFinalKeywordAndInstanceOfOperators)
 
 ### 📌 oopsjava.day4ObjectOrientedDesignPrinciples  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day4ObjectOrientedDesignPrinciples)  
-Practiced high-level OOP principles including abstraction, cohesion, and modularity.
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day4ObjectOrientedDesignPrinciples)
 
 ### 📌 oopsjava.day5Inheritance  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day5Inheritance)  
-Implemented inheritance-based relationships and tested hierarchical designs like `VehicleSystemTest`.
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/day5Inheritance)
 
 ### 📌 oopsjava.Day6EncapsulationPolymorphismInterfaceandAbstractClass  
-[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/Day6EncapsulationPolymorphismInterfaceandAbstractClass)  
-Developed real-world applications using all major OOP concepts:
-- **Encapsulation**: Hospital Management System  
-- **Polymorphism**: Employee & Food Delivery Systems  
-- **Abstract Classes**: Library Management  
-- **Interfaces**: Ride Hailing App, E-Commerce, Bank, etc.
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/OOPS/src/oopsjava/Day6EncapsulationPolymorphismInterfaceandAbstractClass)
+
+---
+
+## ⚙️ DSA Branch – Data Structures Practice
+
+> Problems implemented using Linked Lists and other DSA concepts.
+
+### 📌 Day1 – Linked List Management Systems  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day1LinkedList)
+
+Includes 9 fully implemented management systems:
+
+1. **StudentRecordManager.java** – Singly Linked List (student records)  
+2. **MovieManagementSystem.java** – Doubly Linked List (movie data)  
+3. **TaskScheduler.java** – Circular Linked List (task management)  
+4. **InventoryManager.java** – Singly Linked List (inventory control)  
+5. **LibraryManager.java** – Doubly Linked List (book catalog)  
+6. **RoundRobinScheduler.java** – Circular Linked List (CPU scheduling)  
+7. **SocialMediaManager.java** – Singly Linked List (friend connections)  
+8. **TextEditor.java** – Doubly Linked List (undo/redo system)  
+9. **TicketSystem.java** – Circular Linked List (ticket booking)
 
 ---
 
@@ -74,35 +85,27 @@ Developed real-world applications using all major OOP concepts:
 
 > These programs were assigned during live review sessions and are maintained in the `workshop` branch.
 
-### 📌 [CoffeeCounter.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/CoffeeCounter.java)  
-Simulates a coffee billing system using `switch`, `while`, and arithmetic operators, including GST calculation.
+### 📌 Common Workshop Programs  
+- [CoffeeCounter.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/CoffeeCounter.java)  
+- [ElectionBoothManager.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ElectionBoothManager.java)  
+- [ParkingLotGateSystem.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ParkingLotGateSystem.java)  
+- [CbInvoiceGenerator.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/CbInvoiceGenerator.java)  
+- [countfrequency.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/countfrequency.java)  
+- [Node.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/Node.java)  
+- [practice.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/practice.java)  
+- [sol.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/sol.java) 
+- [practicestring.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/practicestring.java)  
+Newly added string-related practice file.
 
-### 📌 [ElectionBoothManager.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ElectionBoothManager.java)  
-Implements a voting system with age verification and vote tallying across three candidates.
-
-### 📌 [ParkingLotGateSystem.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/ParkingLotGateSystem.java)  
-A parking lot simulation using `switch-case` and loop structures to manage entry, exit, and occupancy display.
-
-### 📌 [CbInvoiceGenerator.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/CbInvoiceGenerator.java)  
-Implements invoice calculation for cab rides, including ride distance and time tracking with fare computation.
-
-### 📌 [countfrequency.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/countfrequency.java)  
-Counts and displays the frequency of user input (numbers or characters).
-
-### 📌 [Node.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/Node.java)  
-Basic implementation of a custom `Node` class — likely used in linked list examples.
-
-### 📌 [practice.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/practice.java)  
-General-purpose file for quick problem solving, testing logic, or debugging snippets.
-
-### 📌 [sol.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/sol.java)  
-Contains final solutions to discussed problems — often combined or finalized code.
-
+---
 
 ## 🛠️ How to Run
 
-**Core Java files**  
 ```bash
-git checkout CoreJava
-javac Day2_ControlFlow/LeapYear.java
-java Day2_ControlFlow.LeapYear
+git clone https://github.com/Arman11r/BridgeLabz-SIPP-Training.git
+cd BridgeLabz-SIPP-Training
+git checkout DSA
+
+# Compile and run
+javac src/Day1LinkedList/StudentRecordManager.java
+java Day1LinkedList.StudentRecordManager
