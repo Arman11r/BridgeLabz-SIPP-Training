@@ -62,7 +62,7 @@ Advanced string APIs with edge-case logic, null handling, and performance consid
 
 ## ⚙️ DSA Branch – Data Structures Practice
 
-> Problems implemented using Linked Lists and other DSA concepts.
+> Problems implemented using Linked Lists, Stacks, Queues, and HashMaps.
 
 ### 📌 Day1 – Linked List Management Systems  
 [🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day1LinkedList)
@@ -79,6 +79,23 @@ Includes 9 fully implemented management systems:
 8. **TextEditor.java** – Doubly Linked List (undo/redo system)  
 9. **TicketSystem.java** – Circular Linked List (ticket booking)
 
+### 📌 Day2 – Stack, Queue, HashMap & Hash Function Problems  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day2StackQueueHashMapAndHash)
+
+#### 🔁 Stack & Queue Problems:
+- Queue using Two Stacks  
+- Sort Stack using Recursion  
+- Stock Span Problem  
+- Sliding Window Maximum  
+- Circular Tour Problem
+
+#### 🔑 HashMap & Hash Function Problems:
+- Find All Subarrays with Zero Sum  
+- Check for a Pair with Given Sum  
+- Longest Consecutive Sequence  
+- Custom HashMap Implementation (Separate Chaining)  
+- Two Sum Problem
+
 ---
 
 ## 🧪 Workshop Branch – Review Session Codes
@@ -93,9 +110,8 @@ Includes 9 fully implemented management systems:
 - [countfrequency.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/countfrequency.java)  
 - [Node.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/Node.java)  
 - [practice.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/practice.java)  
-- [sol.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/sol.java) 
+- [sol.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/sol.java)  
 - [practicestring.java](https://github.com/Arman11r/BridgeLabz-SIPP-Training/blob/workshop/src/Workshop/practicestring.java)  
-Newly added string-related practice file.
 
 ---
 
