@@ -138,6 +138,31 @@ Covers Java I/O streams, string operations, search logic, and string analysis:
 
 ---
 
+  ### 📌 Day5 – Algorithm Runtime Performance Comparison  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day5AlgorithmRunTimeAnalysis)
+
+Benchmarks and compares various algorithms and data structures in terms of execution time, space, and real-time applicability:
+
+#### 🔍 Search Performance
+- **SearchPerformanceComparison.java** – Linear vs Binary Search on varying data sizes
+
+#### 📊 Sorting Performance
+- **SortingPerformanceComparison.java** – Bubble Sort vs Merge Sort vs Quick Sort
+
+#### 🔠 String Concatenation
+- **StringConcatenationComparison.java** – Comparing String vs StringBuilder vs StringBuffer
+
+#### 📂 File Reading
+- **FileReadingPerformance.java** – FileReader vs InputStreamReader efficiency for large files
+
+#### 🔢 Fibonacci Computation
+- **FibonacciPerformance.java** – Recursive vs Iterative Fibonacci for small and large N
+
+#### 📦 Data Structure Search
+- **DataStructureSearchComparison.java** – Search comparison in Array, HashSet, and TreeSet
+
+---
+
 ## 🧪 Workshop Branch – Review Session Codes
 
 > These programs were assigned during live review sessions and are maintained in the `workshop` branch.
