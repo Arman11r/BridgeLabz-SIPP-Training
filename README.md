@@ -60,9 +60,9 @@ Advanced string APIs with edge-case logic, null handling, and performance consid
 
 ---
 
-## ⚙️ DSA Branch – Data Structures Practice
+## ⚙️ DSA Branch – Data Structures & Algorithms Practice
 
-> Problems implemented using Linked Lists, Stacks, Queues, and HashMaps.
+> Problems implemented using Linked Lists, Stacks, Queues, HashMaps, Sorting, Searching, Streams, and String operations.
 
 ### 📌 Day1 – Linked List Management Systems  
 [🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day1LinkedList)
@@ -78,6 +78,8 @@ Includes 9 fully implemented management systems:
 7. **SocialMediaManager.java** – Singly Linked List (friend connections)  
 8. **TextEditor.java** – Doubly Linked List (undo/redo system)  
 9. **TicketSystem.java** – Circular Linked List (ticket booking)
+
+---
 
 ### 📌 Day2 – Stack, Queue, HashMap & Hash Function Problems  
 [🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day2StackQueueHashMapAndHash)
@@ -95,6 +97,44 @@ Includes 9 fully implemented management systems:
 - Longest Consecutive Sequence  
 - Custom HashMap Implementation (Separate Chaining)  
 - Two Sum Problem
+
+---
+
+### 📌 Day3 – Sorting Algorithms  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day3SortingAlgorithms)
+
+Covers real-world problems with custom datasets using sorting techniques:
+
+- **BubbleSort.java** – Basic Bubble Sort  
+- **CountingSortStudentAges.java** – Counting Sort for student age analysis  
+- **HeapSortJobSalaries.java** – Heap Sort on salary data  
+- **InsertionSortEmployeeIds.java** – Insertion Sort for employee ID sorting  
+- **MergeSortBookPrices.java** – Book pricing with Merge Sort  
+- **QuickSortProductPrices.java** – Quick Sort for product price optimization  
+- **SelectionSortExamScores.java** – Exam score sorting using Selection Sort
+
+---
+
+### 📌 Day4 – StringBuilder, File I/O, Linear & Binary Search  
+[🔗 View Folder](https://github.com/Arman11r/BridgeLabz-SIPP-Training/tree/DSA/src/Day4StringBuilderLinearAndBinarySearch)
+
+Covers Java I/O streams, string operations, search logic, and string analysis:
+
+- **ByteToCharStream.java** – Handling byte-to-char stream conversions  
+- **ConsoleToFile.java** – Writing input data from console to file  
+- **FileLineReader.java** – Reading files line by line  
+- **EfficientConcatination.java** – StringBuilder vs `+` performance  
+- **WordCounter.java** – Word count from input  
+- **WordInSentances.java** – Frequency of words in a sentence  
+- **ReverseString.java** – Custom string reversal logic  
+- **RemoveDuplicates.java** – Removing duplicates from strings  
+- **ChallengeSearch.java** – Custom problem using linear/binary search  
+- **FirstLastOccurance.java** – Binary search variant for first/last index  
+- **FirstNegative.java** – First negative element in window  
+- **PeakElement.java** – Finding a peak in an array  
+- **RotationPoint.java** – Detecting rotated sorted arrays  
+- **PerformanceComparision.java** – Comparing algorithm performance  
+- **Search2DMatrix.java** – Binary search on matrix
 
 ---
 
